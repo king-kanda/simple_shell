@@ -304,27 +304,6 @@ $ unsetenv NAME
 $ echo $NAME
 
 $
-```
 
 
-### What we learned:
-* How a shell works and finds commands
-* Creating, forking and working with processes
-* Executing a program from another program
-* Handling dynamic memory allocation in a large program
-* Pair programming and team work
-* Building a test suite to check our own code
 
-
-## Authors ##
-
-👤 **OGORA DELMUS**
-
-👤 **ODOYO DANIEL**
-
-DELMUS DETAILS >> SOCIALS.
-GitHub: @DELMUS1M
-LinkedIn: LinkedIn
-DELMUS OGORA
-Twitter: @DelmusOgora
-Email : ogoradelmus1@gmai.com
